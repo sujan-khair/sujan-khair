@@ -1,8 +1,5 @@
 # 👨‍💻 Sujan Khair - Software Developer
 
-Welcome to my personal portfolio repository!
-This portfolio showcases my technical skills, development experience, projects, and professional journey as a Python and Java Developer.
-
 ---
 
 ## 🧑‍💻 About Me
