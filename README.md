@@ -1,5 +1,6 @@
 # 👨‍💻 Sujan Khair - Software Developer
 
+---
 
 ## 🧑‍💻 About Me
 
